@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @asifkhan123
-- 💻 I’m a final year student at HKUST majoring in Computer Science and minoring in Bioengineering 
-- 👨‍💻 My field of interest primarily revolves around the intersection of computer science and healthcare, with areas like computer vision and medical imaging
-- 👾 I am also interested in applied fields, such as data analytics and computational modelling
+- 💻 I’m currently a Computer Science and Engineering MPhil Student at HKUST, having completed my Bachelor's degree at the same university in Computer Science with a minor in Bioengineering.
 - 📫 You can contact me at akhanaa@connect.ust.hk or through my [LinkedIn](https://www.linkedin.com/in/asifkhan12/)
