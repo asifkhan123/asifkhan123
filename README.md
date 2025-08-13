@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @asifkhan123
-- 💻 I’m currently an MPhil student in Computer Science @ HKUST, currently specializing in AI Privacy within the legal domain
-- 🎓 I also completed my Bachelor's degree in HKUST, majoring in Computer Science and minoring in Bioengineering
-- 📫 You can contact me at akhanaa@connect.ust.hk or through my [LinkedIn](https://www.linkedin.com/in/asifkhan12/)
+- 💻 MPhil in Computer Science @ HKUST, specializing in LLM Privacy
+- 🎓 I completed my Bachelor's degree in HKUST, majoring in Computer Science with a minor in Bioengineering
