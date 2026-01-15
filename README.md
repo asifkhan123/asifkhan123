@@ -1,2 +1,2 @@
-- 💻 MPhil in Computer Science @ HKUST, specializing in LLM Privacy
+- 💻 MPhil in Computer Science @ HKUST KnowComp
 - 🎓 I completed my Bachelor's degree in HKUST, majoring in Computer Science with a minor in Bioengineering
